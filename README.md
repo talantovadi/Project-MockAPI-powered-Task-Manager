@@ -22,9 +22,10 @@ cd todo-main
 npm install  # or yarn install
 ```
 
-##Configuration
+## Configuration
 
 1.Open the js files.
+
 2.Update the following configuration
 
 ```bash
@@ -32,7 +33,7 @@ npm install  # or yarn install
 ```
 3.Save and close the file.
 
-##Usage
+## Usage
 
 1.Start the project:
 
